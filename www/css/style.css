@@ -1,0 +1,10 @@
+.table{
+	width: 100%;
+	border: 1px solid #f1f1f1;
+	color: #555555;
+	line-height: 30px;
+}
+
+.table tr td{
+	border-bottom: 1px solid #f1f1f1;
+}
