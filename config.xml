@@ -4,7 +4,7 @@
 		id          = "myfirstapp"
         version     = "1.0.0" >
 
-    <name>NMotion</name>
+    <name>Motion</name>
     <description>mobile app</description>
     <author href="http://mypersonalwebsite.com" email="johnbrown@gmail.com">
 		Mateusz Mateja

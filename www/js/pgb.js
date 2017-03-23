@@ -1,4 +1,4 @@
-function onInit(){
+function start(){
     navigator.accelerometer.getCurrentAcceleration(onSuccess, onError);
 }
 
