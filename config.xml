@@ -4,7 +4,7 @@
 		id          = "myfirstapp"
         version     = "1.0.0" >
 
-    <name>Network</name>
+    <name>NMotion</name>
     <description>mobile app</description>
     <author href="http://mypersonalwebsite.com" email="johnbrown@gmail.com">
 		Mateusz Mateja
@@ -13,6 +13,6 @@
 	
 	<plugin name="cordova-plugin-device" spec="~1.1.4" />
 	<plugin name="cordova-plugin-dialogs" spec="~1.3.1" />
-	<plugin name="cordova-plugin-network-information" />
+	<plugin name="cordova-plugin-device-motion" />
 
 </widget>
